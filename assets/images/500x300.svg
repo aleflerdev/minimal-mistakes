@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" data-name="Group 1">
+  <path fill="#22272e" d="M0 0h500v300H0z" data-name="Rectangle 1"/>
+  <g fill="#22272e" stroke="#fff" data-name="Rectangle 3" transform="translate(152 149)">
+    <rect width="244" height="85" stroke="none" rx="5"/>
+    <rect width="243" height="84" x=".5" y=".5" fill="none" rx="4.5"/>
+  </g>
+  <g fill="#22272e" stroke="#fff" data-name="Rectangle 2" transform="translate(100 73)">
+    <rect width="242" height="77" stroke="none" rx="5"/>
+    <rect width="241" height="76" x=".5" y=".5" fill="none" rx="4.5"/>
+  </g>
+  <path fill="#efefef" d="M242.906 162.698h15.339a1.906 1.906 0 0 1 1.917 1.9v16.3a1.906 1.906 0 0 1-1.917 1.9h-15.339a1.907 1.907 0 0 1-1.917-1.9v-16.3a1.907 1.907 0 0 1 1.917-1.9Z" data-name="Path 8"/>
+  <path fill="#efefef" d="M219.129 117.212h15.34a1.907 1.907 0 0 1 1.917 1.9v61.781a1.906 1.906 0 0 1-1.917 1.9h-15.34a1.907 1.907 0 0 1-1.917-1.9v-61.781a1.907 1.907 0 0 1 1.917-1.9Z" data-name="Path 10"/>
+  <g fill="#22272e" stroke="#fff" data-name="Rectangle 4" opacity=".3" style="mix-blend-mode:hard-light;isolation:isolate" transform="translate(207 133)">
+    <rect width="87" height="83" stroke="none" rx="5"/>
+    <rect width="86" height="82" x=".5" y=".5" fill="none" rx="4.5"/>
+  </g>
+  <g fill="#22272e" stroke="#fff" data-name="Rectangle 6" opacity=".55" style="mix-blend-mode:lighten;isolation:isolate" transform="translate(221 57)">
+    <rect width="87" height="83" stroke="none" rx="5"/>
+    <rect width="86" height="82" x=".5" y=".5" fill="none" rx="4.5"/>
+  </g>
+  <path fill="#efefef" d="M282.788 119.112a1.907 1.907 0 0 0-1.917-1.9h-14.189a1.907 1.907 0 0 0-1.917 1.9v61.781a1.907 1.907 0 0 0 1.917 1.9h14.189a1.907 1.907 0 0 0 1.917-1.9Z" data-name="Path 11"/>
+  <g fill="#22272e" stroke="#fff" data-name="Rectangle 5" opacity=".32" style="mix-blend-mode:color-dodge;isolation:isolate" transform="translate(164 88)">
+    <rect width="87" height="83" stroke="none" rx="5"/>
+    <rect width="86" height="82" x=".5" y=".5" fill="none" rx="4.5"/>
+  </g>
+  <path fill="#efefef" d="M242.906 117.212a1.907 1.907 0 0 0-1.917 1.9v14.4a1.907 1.907 0 0 0 1.917 1.9h37.965a1.907 1.907 0 0 0 1.917-1.9v-14.4a1.907 1.907 0 0 0-1.917-1.9Z" data-name="Path 12"/>
+  <path fill="#efefef" d="M242.906 139.955h15.339a1.906 1.906 0 0 1 1.917 1.9v14.4a1.906 1.906 0 0 1-1.917 1.9h-15.339a1.907 1.907 0 0 1-1.917-1.9v-14.4a1.906 1.906 0 0 1 1.917-1.9Z" data-name="Path 9"/>
+</svg>
